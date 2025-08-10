@@ -41,8 +41,8 @@ amigo-secreto/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
-cd amigo-secreto
+git clone https://github.com/Milonesco/Challenge-Alura-Oracle-One---Amigo-Secreto/
+cd Challenge-Alura-Oracle-One---Amigo-Secreto
 ```
 
 ### 2. Abra o projeto
