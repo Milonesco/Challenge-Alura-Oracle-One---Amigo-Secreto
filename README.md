@@ -1,14 +1,13 @@
-- Amigo Secreto 
+# Amigo Secreto 
 
+> Um simples sorteador de amigo secreto desenvolvido como parte do Challenge da Alura + Oracle ONE.
 
-
-- Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * HTML5
 * CSS3
 * JavaScript
 
-- Estrutura do Projeto
-  
+## Estrutura do Projeto
 ```text
 amigo-secreto/
 ├── 📄 README.md
